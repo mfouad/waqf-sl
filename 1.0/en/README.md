@@ -1,12 +1,11 @@
-"Waqf" General Public License
+Waqf Software Service License
 بسم الله الرّحمن الرّحيم
 
 In the name of Allah, Most Gracious, Most Merciful
 
-"Waqf" General Public License 2.0, 3 Muharram 1435
+Waqf Software Service License 1.0, 30 Rabi Al-Thany 1446, 2 November 2024
 
-This is the informal English translation of Waqf General Public License. Anything but the Arabic version of the license has no value except for convenience of our English speaking users. When we talk about the License we refer to the Arabic version, which is the only one we officially offer, we will try our best to make other translation as accurate as possible but because of the nature of human languages we use one single reference language.
-Preamble
+## Preamble
 
 This document is the controlling agreement for the use of the material covered by it, as it is considered to be the contract signed between the publisher and the beneficiary, as each contract has its own rules and conditions. We see that monopolistic agreements not only restrict the beneficiary but affect the value of intellectual work, From a light to a mere commodity, where the intellectual property right is owned by the first intellectual depositor. Our vision for this property is limited to the moral form of the intellectual work itself in accordance with the rules below, unlike the monopoly licenses that place unfair restrictions that keep the second party weak and encouraged to violate them as much as possible.
 
